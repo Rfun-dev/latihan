@@ -1,3 +1,1 @@
 mas lorem
-
-mba ipsum
